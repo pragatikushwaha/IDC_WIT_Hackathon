@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Microsoft</string>
+    <string name="timesheet_open">Open</string>
+    <string name="timesheet_close">Close</string>
+</resources>

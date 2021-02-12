@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/chat"
+        android:title="chat" />
+    <item android:id="@+id/task"
+        android:title="task"/>
+    <item android:id="@+id/events"
+        android:title="events" />
+    <item android:id="@+id/reminder"
+        android:title="reminder"/>
+    <item android:id="@+id/family_location"
+        android:title="family location"/>
+    <item android:id="@+id/group_info"
+        android:title="group_info"/>
+    <item android:id="@+id/logout"
+        android:title="logout"/>
+</menu>
